@@ -326,6 +326,15 @@ float: left;
   margin-right: 25px;
   height: 500px
 }
+
+.table-field {
+
+  overflow: auto;
+  width: 300px;
+  height: 480px;
+
+}
+
 .table-top10 tr{
   margin: 0;
   padding: 0;
@@ -341,8 +350,20 @@ float: left;
 .table-top10 tr:nth-child(8),
 .table-top10 tr:nth-child(9),
 .table-top10 tr:nth-child(10),
-.table-top10 tr:nth-child(11){
+.table-top10 tr:nth-child(11),
+.table-top10 tr:nth-child(12)
+{
   background-color: #dfdfdf;
+}
+.table-top10 tr:nth-child(13),
+.table-top10 tr:nth-child(14),
+.table-top10 tr:nth-child(15),
+.table-top10 tr:nth-child(16),
+.table-top10 tr:nth-child(17),
+.table-top10 tr:nth-child(18),
+.table-top10 tr:nth-child(19)
+{
+  background-color: #baa68b;
 }
 .top-10{
  display: flex;
