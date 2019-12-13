@@ -27,3 +27,5 @@ var barChart = new Chart(popCanvas, {
     }]
   }
 });
+
+
