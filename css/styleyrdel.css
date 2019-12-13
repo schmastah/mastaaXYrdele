@@ -343,25 +343,38 @@ float: left;
 .table-top10 tr:nth-child(3),
 .table-top10 tr:nth-child(4),
 .table-top10 tr:nth-child(5),
-.table-top10 tr:nth-child(6){
-  background-color: #eef03f;
-}
+.table-top10 tr:nth-child(6),
 .table-top10 tr:nth-child(7),
 .table-top10 tr:nth-child(8),
 .table-top10 tr:nth-child(9),
 .table-top10 tr:nth-child(10),
-.table-top10 tr:nth-child(11),
-.table-top10 tr:nth-child(12)
-{
-  background-color: #dfdfdf;
+.table-top10 tr:nth-child(11) {
+  background-color: #eef03f;
 }
+.table-top10 tr:nth-child(12),
 .table-top10 tr:nth-child(13),
 .table-top10 tr:nth-child(14),
 .table-top10 tr:nth-child(15),
 .table-top10 tr:nth-child(16),
 .table-top10 tr:nth-child(17),
 .table-top10 tr:nth-child(18),
-.table-top10 tr:nth-child(19)
+.table-top10 tr:nth-child(19),
+.table-top10 tr:nth-child(20),
+.table-top10 tr:nth-child(21)
+{
+  background-color: #dfdfdf;
+}
+
+.table-top10 tr:nth-child(22),
+.table-top10 tr:nth-child(23),
+.table-top10 tr:nth-child(24),
+.table-top10 tr:nth-child(25),
+.table-top10 tr:nth-child(26),
+.table-top10 tr:nth-child(27),
+.table-top10 tr:nth-child(28),
+.table-top10 tr:nth-child(29),
+.table-top10 tr:nth-child(30),
+.table-top10 tr:nth-child(31)
 {
   background-color: #baa68b;
 }
